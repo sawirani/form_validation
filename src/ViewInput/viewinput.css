@@ -1,0 +1,11 @@
+p{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+.input {
+    border: 1px solid #cccccc;
+    outline: none;
+    border-radius: 3px;
+    height: 20px;
+    width: 200px;
+}

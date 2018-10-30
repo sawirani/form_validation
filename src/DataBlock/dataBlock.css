@@ -1,0 +1,7 @@
+.data_block{
+    background: lightgrey;
+    margin-top: 10px;
+    width: 300px;
+    text-align: center;
+    border: 1px solid black;
+}
